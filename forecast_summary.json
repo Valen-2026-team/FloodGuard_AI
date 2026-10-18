@@ -1,0 +1,9 @@
+{
+  "scenario": 149,
+  "hour": 31,
+  "zones_total": 53,
+  "zones_already_failed": 1,
+  "zones_isolated": 0,
+  "zones_high_risk_next_6h": 15,
+  "people_in_high_risk_zones": 32592
+}

@@ -1,0 +1,76 @@
+scenario,strategy,people_hours_failed,isolated_pop_hours,failed_zone_hours,zones_ever_failed
+16,baseline (do nothing),6329960,5201151,2932,53
+16,pre-position supplies,6184123,5201151,2849,53
+16,open extra shelters,6484196,5201151,2979,53
+16,restore roads,6351054,4066937,2929,53
+16,all three combined,6130673,4066937,2763,50
+18,baseline (do nothing),4687645,0,2147,47
+18,pre-position supplies,4687645,0,2147,47
+18,open extra shelters,1926142,0,822,28
+18,restore roads,4687645,0,2147,47
+18,all three combined,1727942,0,684,23
+5,baseline (do nothing),4211257,1562898,1885,48
+5,pre-position supplies,4122575,1562898,1856,48
+5,open extra shelters,3487901,1562898,1554,48
+5,restore roads,4964351,1005123,2260,48
+5,all three combined,3844759,1005123,1759,48
+30,baseline (do nothing),4322582,3225403,1865,51
+30,pre-position supplies,4315425,3225403,1863,51
+30,open extra shelters,4305389,3225403,1853,51
+30,restore roads,4006906,2387785,1723,49
+30,all three combined,3824430,2387785,1662,47
+14,baseline (do nothing),3524569,2374746,1659,49
+14,pre-position supplies,3442747,2374746,1623,49
+14,open extra shelters,3524569,2374746,1659,49
+14,restore roads,3455361,1683534,1637,49
+14,all three combined,3381415,1683534,1585,48
+4,baseline (do nothing),2958050,1783047,1574,50
+4,pre-position supplies,2936198,1783047,1563,50
+4,open extra shelters,2627912,1783047,1381,50
+4,restore roads,2665544,970137,1422,50
+4,all three combined,2420932,970137,1301,48
+27,baseline (do nothing),3954264,220844,1558,40
+27,pre-position supplies,3954264,220844,1558,40
+27,open extra shelters,2414892,220844,1021,33
+27,restore roads,3888923,51042,1506,38
+27,all three combined,2244900,51042,934,29
+13,baseline (do nothing),3871950,1618107,1527,44
+13,pre-position supplies,3871950,1618107,1527,44
+13,open extra shelters,3682577,1618107,1454,44
+13,restore roads,3840119,1509107,1514,44
+13,all three combined,3654532,1509107,1437,44
+31,baseline (do nothing),3687841,411228,1518,45
+31,pre-position supplies,3298763,411228,1385,43
+31,open extra shelters,3129168,411228,1260,39
+31,restore roads,3704889,89647,1530,45
+31,all three combined,2683268,89647,1107,37
+38,baseline (do nothing),3208289,377607,1387,35
+38,pre-position supplies,3208289,377607,1387,35
+38,open extra shelters,3208289,377607,1387,35
+38,restore roads,3002661,8561,1324,33
+38,all three combined,3002661,8561,1324,33
+20,baseline (do nothing),2862726,615958,1299,47
+20,pre-position supplies,2681394,615958,1239,46
+20,open extra shelters,2107849,615958,883,37
+20,restore roads,2964142,251485,1314,46
+20,all three combined,1936294,251485,812,34
+0,baseline (do nothing),3142105,141943,1246,33
+0,pre-position supplies,3142105,141943,1246,33
+0,open extra shelters,2865816,141943,1140,31
+0,restore roads,3163719,0,1256,33
+0,all three combined,2887430,0,1150,31
+36,baseline (do nothing),2695769,424097,1141,39
+36,pre-position supplies,2563841,424097,1089,39
+36,open extra shelters,1943176,424097,857,37
+36,restore roads,2697812,152272,1142,39
+36,all three combined,1798296,152272,835,35
+28,baseline (do nothing),2544832,12969,1136,36
+28,pre-position supplies,2479027,12969,1095,35
+28,open extra shelters,1800195,12969,824,30
+28,restore roads,2544832,0,1136,36
+28,all three combined,1597381,0,696,25
+1,baseline (do nothing),2257742,0,885,31
+1,pre-position supplies,2103868,0,802,29
+1,open extra shelters,969799,0,399,22
+1,restore roads,2257742,0,885,31
+1,all three combined,783286,0,296,17
